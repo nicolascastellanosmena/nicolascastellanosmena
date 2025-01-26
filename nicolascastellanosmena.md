@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **CSS, JavaScript, and responsive design**.  
 
-- 📫 How to reach me **nico.castellanos.dev@gmail.com**  
+- 📫 How to reach me **nicolas96vlc@gmail.com**  
 
 - 📄 Check out my journey on LinkedIn <a href="https://www.linkedin.com/in/nicol%C3%A1s-castellanos-mena-9b8332205/" target="blank">here</a>.  
 
