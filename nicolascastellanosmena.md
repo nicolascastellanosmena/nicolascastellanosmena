@@ -6,7 +6,7 @@
 </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
+  <img align="right" top="500" height="300" width="500" alt="GIF" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 </a>
 
 - 🔭 I’m currently studying Web Development and working on personal projects.  
