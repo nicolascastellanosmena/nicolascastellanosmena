@@ -15,7 +15,7 @@
 
 - 🤝 I’m open to collaborations on web-based projects.  
 
-- 💬 Ask me about **CSS, JavaScript, and responsive design**.  
+- 💬 Ask me about **CSS, Bootstrap, and responsive design**.  
 
 - 📫 How to reach me **nicolas96vlc@gmail.com**  
 
