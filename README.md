@@ -22,6 +22,16 @@
 - 📄 Check out my journey on LinkedIn <a href="https://www.linkedin.com/in/nicol%C3%A1s-castellanos-mena-9b8332205/" target="blank">here</a>.  
 
 <br/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,react,html,css,vscode,github,figma,git,docker,symfony" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,java,mongodb,cs,java,nextjs,mysql,discord,postman,php" /><br>
+</div>
+
+<br/>
+
 <h3 align="center">🌟 Connect with me 🤝</h3>
 
 <p align="center">
